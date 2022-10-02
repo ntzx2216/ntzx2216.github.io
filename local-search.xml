@@ -4,6 +4,19 @@
   
   
   <entry>
+    <title>2216的第一篇文章</title>
+    <link href="/2022/10/02/2216%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/"/>
+    <url>/2022/10/02/2216%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</url>
+    
+    <content type="html"><![CDATA[<h1 id="你好"><a href="#你好" class="headerlink" title="你好"></a>你好</h1><p>这里是 2216 的第一篇文章。该博客基于 hexo +github 搭建，由 2216 无能电教委员搭建</p><p>本博客支持markdown编写，以下是 markdown 样式</p><h1 id="一级标题"><a href="#一级标题" class="headerlink" title="一级标题"></a>一级标题</h1><h2 id="二级标题"><a href="#二级标题" class="headerlink" title="二级标题"></a>二级标题</h2><h3 id="三级标题"><a href="#三级标题" class="headerlink" title="三级标题"></a>三级标题</h3><h4 id="四级标题"><a href="#四级标题" class="headerlink" title="四级标题"></a>四级标题</h4><h5 id="五级标题"><a href="#五级标题" class="headerlink" title="五级标题"></a>五级标题</h5><h6 id="六级标题"><a href="#六级标题" class="headerlink" title="六级标题"></a>六级标题</h6><table><thead><tr><th>这</th><th>是</th><th>一</th><th>个</th><th>表</th><th>格</th></tr></thead><tbody><tr><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td></tr><tr><td></td><td>常</td><td>得</td><td>好</td><td>玩</td><td>!</td></tr></tbody></table><figure class="highlight"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><code class="hljs">这是一个代码引用区块<br>1<br>2<br>3<br>4<br>5<br></code></pre></td></tr></table></figure><p><code>引用</code></p><p><del>删除线</del></p><p><em>斜体</em></p><p><strong>加粗</strong></p><p><em><strong>加粗斜体</strong></em></p><blockquote><p>这是一级缩进</p><blockquote><p>我还可以有二级</p><blockquote><blockquote><blockquote><blockquote><blockquote><blockquote><blockquote><p>再来几级</p></blockquote><p>好玩</p></blockquote><p>好玩</p></blockquote></blockquote></blockquote></blockquote></blockquote><p>好玩</p><blockquote><p>我还可以这样</p><blockquote><blockquote><p>可以这样</p></blockquote></blockquote></blockquote></blockquote><p>可以这样</p></blockquote><p><a href="https://m.xiguacity.cn/post/0/bf815fb1-acc3-496a-a631-4c7c7ce53d29.mp4">这是一个链接，可点击</a></p><p><img src="https://asset.gitblock.cn/Media?name=CD63E34C27FBD4857D88C484809C764D.png" alt="我还可以插入图片，这是班徽"></p><p><del>说实话我觉得挺阴间的</del></p>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>Hello World</title>
     <link href="/2022/10/02/hello-world/"/>
     <url>/2022/10/02/hello-world/</url>
